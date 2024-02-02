@@ -1,4 +1,5 @@
 # 💫 About Me:
+<strong>19 year old junior frontend developer from Poland</strong> 
 🔭 I’m currently working on react-typescript management app<br>🤝 I’m looking for help with advanced typescript features<br>🌱 I’m currently learning react, typescript, zustand, firebase, headless-cms<br>
 
 
